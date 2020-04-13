@@ -1,10 +1,5 @@
 # รายงานวิชา CN210
-cccccccccccc
-ccccc-----cc
-cccc-------c
-ccc---------
-cccc------cc
-cccccccccccc
+*cccc
 ## สรุปเนื้อหารายวิชา
 |CLIP|เนื้อหาในคลิป|
 |-----|------|
