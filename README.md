@@ -45,6 +45,7 @@ pipe lining
 ![image](http://2.bp.blogspot.com/-4YXOlZ30iCQ/UKTYR4Y4FLI/AAAAAAAAAGk/pCdSkaaazVA/s1600/02-What-is-pipelining-02.png)
 
 ## Homework
+
 |CLIP|เนื้อหาในคลิป|
 |-----|------|
 |[CLIP1](https://youtu.be/VZFLH8Wq3IA)|ตัวอย่างในการทำงานของคำสั่ง add ใน mips โดยภายในคลิปจะพูดถึงคำสั่ง R-type ที่เก็บข้อมูล 32 bitว่าในคำสั่ง add มีการเก็บในรูปแบบของคำสั่ง R-type ยังไงบ้าง และแสดงการคำนวณคำสั่ง add|
