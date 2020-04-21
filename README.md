@@ -18,6 +18,10 @@
 
 ![image](http://1.bp.blogspot.com/-MqcOl_V2rSw/Up2okUK7aNI/AAAAAAAAAPo/R5iPs60F8Y0/s1600/2.png)
 
+ความแตกต่างระหว่าง RISC กับ CISC
+*
+
+![image](https://www.semanticscholar.org/paper/RISC-and-CISC-Masood/f8482efd0ce52c85201c41cf99f8076dc1403310/figure/0)
 และจะมีการสอนเกี่ยวกับการทำงานของคำสั่งต่างๆ แบบ single , multi cycle และ pipe lining
 single cycle
 [image!]
