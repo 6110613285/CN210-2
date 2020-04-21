@@ -9,7 +9,7 @@
 1.R-format
 2.I-format 
 3.J-format
-![image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.researchgate.net%2Ffigure%2FInstruction-formats-for-MIPS-architecture-1_fig2_228942202&psig=AOvVaw1BTBm6noYnboPs-m_Ghe7A&ust=1587528496235000&source=images&cd=vfe&ved=0CA0QjhxqFwoTCICHvNbS-OgCFQAAAAAdAAAAABAW)
+![image](https://www.google.com/url?sa=i&url=http%3A%2F%2Fsarangmaklumat.blogspot.com%2F2013%2F12%2Fmips-instruction-format-and-addressing.html&psig=AOvVaw1BTBm6noYnboPs-m_Ghe7A&ust=1587528496235000&source=images&cd=vfe&ved=0CA0QjhxqFwoTCICHvNbS-OgCFQAAAAAdAAAAABAm)
 และจะมีการสอนเกี่ยวกับการทำงานของคำสั่งต่างๆ แบบ single , multi cycle และ pipe lining
 single cycle
 [image!]
