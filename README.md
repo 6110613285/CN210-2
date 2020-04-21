@@ -5,6 +5,18 @@
 * CC-------CC------N---N-N--------22----------------11---------0--------0
 * --CCCCCC--------N----NN------22222222-----111111111-----00000000
 ## สรุปเนื้อหารายวิชา
+วิชานี้จะเป็นการสอนเกี่ยวกับการทำงานของคำสั่งต่างๆภายใน mips โดยใน mips จะมีชุดคำสั่งอยู่ทั้งหมด 3 รูปแบบ คือ 
+1.R-format
+[image!](C:\Users\ASUS\Desktop\R-format.png)
+2.I-format 
+3.J-format
+และจะมีการสอนเกี่ยวกับการทำงานของคำสั่งต่างๆ แบบ single , multi cycle และ pipe lining
+single cycle
+[image!]
+multi cycle
+[image!]
+pipe lining
+[image!]
 |CLIP|เนื้อหาในคลิป|
 |-----|------|
 |[CLIP1](https://youtu.be/VZFLH8Wq3IA)|ตัวอย่างในการทำงานของคำสั่ง add ใน mips
