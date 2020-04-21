@@ -7,7 +7,7 @@
 ## สรุปเนื้อหารายวิชา
 วิชานี้จะเป็นการสอนเกี่ยวกับการทำงานของคำสั่งต่างๆภายใน mips โดยใน mips จะมีชุดคำสั่งอยู่ทั้งหมด 3 รูปแบบ คือ 
 1.R-format
-[image!](C:\Users\ASUS\Desktop\R-format.png)
+[image!](file:///C:/Users/ASUS/Desktop/R-format%20html.html)
 2.I-format 
 3.J-format
 และจะมีการสอนเกี่ยวกับการทำงานของคำสั่งต่างๆ แบบ single , multi cycle และ pipe lining
