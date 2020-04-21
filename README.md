@@ -6,13 +6,16 @@
 * --CCCCCC--------N----NN------22222222-----111111111-----00000000
 ## สรุปเนื้อหารายวิชา
 วิชานี้จะเป็นการสอนเกี่ยวกับการทำงานของคำสั่งต่างๆภายใน mips โดยใน mips จะมีชุดคำสั่งอยู่ทั้งหมด 3 รูปแบบ คือ 
-1.R-format
+*1.R-format
+
 ![image](http://4.bp.blogspot.com/-Ui0mt4h44s8/Up2nvk3iU3I/AAAAAAAAAPY/sF4haVYx6BE/s1600/1.png)
 
-2.I-format
+*2.I-format
+
 ![image](http://4.bp.blogspot.com/-SrDyDKDbxJ8/Up2oHmwtNEI/AAAAAAAAAPg/9i686ypFdCg/s1600/3.png)
 
-3.J-format
+*3.J-format
+
 ![image](http://1.bp.blogspot.com/-MqcOl_V2rSw/Up2okUK7aNI/AAAAAAAAAPo/R5iPs60F8Y0/s1600/2.png)
 
 และจะมีการสอนเกี่ยวกับการทำงานของคำสั่งต่างๆ แบบ single , multi cycle และ pipe lining
