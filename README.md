@@ -9,7 +9,7 @@
 1.R-format
 2.I-format 
 3.J-format
-![image](https://www.google.com/url?sa=i&url=http%3A%2F%2Fsarangmaklumat.blogspot.com%2F2013%2F12%2Fmips-instruction-format-and-addressing.html&psig=AOvVaw1BTBm6noYnboPs-m_Ghe7A&ust=1587528496235000&source=images&cd=vfe&ved=0CA0QjhxqFwoTCICHvNbS-OgCFQAAAAAdAAAAABAm)
+![image](http://4.bp.blogspot.com/-Ui0mt4h44s8/Up2nvk3iU3I/AAAAAAAAAPY/sF4haVYx6BE/s1600/1.png)
 และจะมีการสอนเกี่ยวกับการทำงานของคำสั่งต่างๆ แบบ single , multi cycle และ pipe lining
 single cycle
 [image!]
