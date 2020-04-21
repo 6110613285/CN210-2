@@ -21,7 +21,7 @@
 ความแตกต่างระหว่าง RISC กับ CISC
 *
 
-![image](https://www.semanticscholar.org/paper/RISC-and-CISC-Masood/f8482efd0ce52c85201c41cf99f8076dc1403310/figure/0)
+![image](https://2.bp.blogspot.com/-PAHTUSBJA8s/Wzck5pNEhbI/AAAAAAAAAN4/NvbTkpo17dwrH6LM6XmKZEJtkYUINBxLQCLcBGAs/s1600/Capture.PNG)
 และจะมีการสอนเกี่ยวกับการทำงานของคำสั่งต่างๆ แบบ single , multi cycle และ pipe lining
 single cycle
 [image!]
