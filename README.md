@@ -18,13 +18,17 @@
 
 ![image](http://1.bp.blogspot.com/-MqcOl_V2rSw/Up2okUK7aNI/AAAAAAAAAPo/R5iPs60F8Y0/s1600/2.png)
 
-ความแตกต่างระหว่าง RISC กับ CISC
-*
+## ความแตกต่างระหว่าง RISC กับ CISC
+* RISC ย่อมาจาก Reduced Instruction Set Computer โดย RISC เป็นคอมพิวเตอร์ที่มีชุดคำสั่งน้อยๆ และไม่ซับซ้อน
+* CISC ย่อมาจาก Complex Instruction Set Computer โดย CISC เป็นคอมพิวเตอร์ที่มีความซับซ้อน
+* ในการทำงานคอมพิวเตอร์แบบ RISC จะมีความเร็วมากกว่า CISC เนื่องจากแบบ RISC มีความซับซ้อนที่น้อยมากกว่า
 
 ![image](https://2.bp.blogspot.com/-PAHTUSBJA8s/Wzck5pNEhbI/AAAAAAAAAN4/NvbTkpo17dwrH6LM6XmKZEJtkYUINBxLQCLcBGAs/s1600/Capture.PNG)
+
 และจะมีการสอนเกี่ยวกับการทำงานของคำสั่งต่างๆ แบบ single , multi cycle และ pipe lining
+
 single cycle
-[image!]
+[image!](https://www.welovesolo.com/wp-content/cache/autoptimize/css/autoptimize_55cb2e4b0c334f7dd5d4a8793f172294.css)
 multi cycle
 [image!]
 pipe lining
