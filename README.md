@@ -18,6 +18,10 @@
 
 ![image](http://1.bp.blogspot.com/-MqcOl_V2rSw/Up2okUK7aNI/AAAAAAAAAPo/R5iPs60F8Y0/s1600/2.png)
 
+## Vonneuman กับ Harvard
+* Vonneuman ข้อมูล(Data)และชุดคำสั่ง(Instruction)จะถูกเก็บบนหน่วยความจำเดียวกัน
+* Harvard ข้อมูล(Data)และชุดคำสั่ง(Instruction)จะถูกเก็บคนละหน่วยความจำ
+
 ## ความแตกต่างระหว่าง RISC กับ CISC
 * RISC ย่อมาจาก Reduced Instruction Set Computer โดย RISC เป็นคอมพิวเตอร์ที่มีชุดคำสั่งน้อยๆ และไม่ซับซ้อน
 * CISC ย่อมาจาก Complex Instruction Set Computer โดย CISC เป็นคอมพิวเตอร์ที่มีความซับซ้อน
@@ -25,17 +29,25 @@
 
 ![image](https://2.bp.blogspot.com/-PAHTUSBJA8s/Wzck5pNEhbI/AAAAAAAAAN4/NvbTkpo17dwrH6LM6XmKZEJtkYUINBxLQCLcBGAs/s1600/Capture.PNG)
 
-และจะมีการสอนเกี่ยวกับการทำงานของคำสั่งต่างๆ แบบ single , multi cycle และ pipe lining
+การทำงานของคำสั่งต่างๆ แบบ single , multi cycle และ pipe lining
 
 single cycle
-![image](https://media.cheggcdn.com/study/950/950fd081-9c6b-4b72-82c7-e60182463929/2009431318246337436150401462503453.png)
+* เป็นการทำวานแบบ 1 คำสั่งต่อ 1 cycle โดยที่ทุกคำสั่งจะใช้เวลาเท่ากันทั้งหมด
+
+![image](https://camo.githubusercontent.com/647f042b60fb2e9bb9484b6bdb40f8d65f35e6ad/68747470733a2f2f7777772e636973652e75666c2e6564752f7e6d73737a2f436f6d704f72672f466967757265342e31312d4d4950536461746170617468522d6c6f642d6265712e676966)
 multi cycle
+* เป็นการทำงานที่ใช้เวลาไม่เท่ากัน โดยเวลาที่ใช้ขึ้นอยู่กับคำสั่ง
+
 ![image](https://camo.githubusercontent.com/3a759f503101d7359e3b9e88a79a64b022814d5a/68747470733a2f2f692e696d6775722e636f6d2f6d5758485770542e706e67)
 pipe lining
-[image!]
+* เป็นการลดระยะเวลาที่้ในการทำงานลงโดยเมื่อมีอุปกรณ์ที่ว่างก้จะนำคำสั่งต่อไปมาทำงานทันที
+
+![image](http://2.bp.blogspot.com/-4YXOlZ30iCQ/UKTYR4Y4FLI/AAAAAAAAAGk/pCdSkaaazVA/s1600/02-What-is-pipelining-02.png)
+
+## Homework
 |CLIP|เนื้อหาในคลิป|
 |-----|------|
-|[CLIP1](https://youtu.be/VZFLH8Wq3IA)|ตัวอย่างในการทำงานของคำสั่ง add ใน mips
+|[CLIP1](https://youtu.be/VZFLH8Wq3IA)|ตัวอย่างในการทำงานของคำสั่ง add ใน mips โดยภายในคลิปจะพูดถึงคำสั่ง R-type ที่เก็บข้อมูล 32 bitว่าในคำสั่ง add มีการเก็บในรูปแบบของคำสั่ง R-type ยังไงบ้าง และแสดงการคำนวณคำสั่ง add
 |[CLIP2](https://youtu.be/CYYIpdiYHF8)|ตัวอย่างการทำงานของระบบคอมพิวเตอร์ในภาษาขั้นสูง
 |[CLIP3](https://youtu.be/N3aXtqCpFQU)|ความแตกต่างะหว่างการทำงานแบบ single cycle และ multi cycle|
 |[CLIP4](https://youtu.be/8Pwj3uYp1AM)|ตัวอย่างการทำงานของคำสั่ง lw ในการทำงานแบบ multi cycle|
