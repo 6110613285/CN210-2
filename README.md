@@ -28,7 +28,7 @@
 และจะมีการสอนเกี่ยวกับการทำงานของคำสั่งต่างๆ แบบ single , multi cycle และ pipe lining
 
 single cycle
-[image!](https://www.welovesolo.com/wp-content/cache/autoptimize/css/autoptimize_55cb2e4b0c334f7dd5d4a8793f172294.css)
+![image](https://www.welovesolo.com/wp-content/cache/autoptimize/css/autoptimize_55cb2e4b0c334f7dd5d4a8793f172294.css)
 multi cycle
 [image!]
 pipe lining
